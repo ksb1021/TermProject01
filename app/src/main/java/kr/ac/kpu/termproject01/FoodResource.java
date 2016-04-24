@@ -16,6 +16,7 @@ public class FoodResource extends GraphicObject {
     void Update(long GameTime) {
 
     }
+    //
 
     @Override
     public void Draw(Canvas canvas) {
